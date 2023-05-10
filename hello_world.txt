@@ -1,2 +1,2 @@
 hello world!
-New content added here, to demonstrate the situation of editing file and staging it to github
+New content added here, to demonstrate the situation of editing file and staging it to githubnew line to hello world
